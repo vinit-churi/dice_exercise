@@ -5,7 +5,7 @@ class Dice extends Component {
     render() {
         return(
             <div className='dice'>
-                <FontAwesomeIcon icon={this.props.icon} size='10x' />
+                <FontAwesomeIcon icon={this.props.icon} className={`${this.props.rolling && 'rolling'}`} size='10x' />
             </div>
         )
     }
