@@ -1,0 +1,12 @@
+.Rolldice__button{
+    display: block;
+    margin: 0 auto;
+    padding: 0.6rem 1.8rem;
+    border-radius: 40px;
+    color: rgb(1, 67, 83);
+    background-color: rgb(87, 152, 168);
+    border-color: rgb(1, 67, 83);
+    font-weight: 600;
+    font-size: medium;
+    outline: none;
+}
