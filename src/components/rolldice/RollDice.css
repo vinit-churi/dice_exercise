@@ -12,6 +12,7 @@
 }
 
 .Rolldice__button:hover {
-    background-color: rgb(0, 116, 145);
+    background-color: rgb(0, 166, 207);
+    color: aliceblue;
     cursor: pointer;
 }
